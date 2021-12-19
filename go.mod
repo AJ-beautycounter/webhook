@@ -1,4 +1,4 @@
-module github.com/adnanh/webhook
+module github.com/AJ-beautycounter/webhook
 
 go 1.14
 
